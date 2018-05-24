@@ -3,11 +3,11 @@
  */
 
 var type;
-try {
+//try {
   type = require('component-type');
-} catch (_) {
-  type = require('type');
-}
+//} catch (_) {
+//  type = require('type');
+//}
 
 /**
  * Module exports.
